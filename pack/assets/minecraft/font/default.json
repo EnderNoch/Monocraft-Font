@@ -1,0 +1,29 @@
+{
+	"providers": [
+		{
+			"type": "reference",
+			"id": "minecraft:include/space"
+		},
+		{
+			"type": "ttf",
+			"file": "minecraft:monocraft.ttf",
+			"size": 9.0,
+			"oversample": 8.0,
+			"shift": [0.0, 0.0],
+			"filter": {
+				"uniform": false
+			}
+		},
+		{
+			"type": "reference",
+			"id": "minecraft:include/default",
+			"filter": {
+				"uniform": false
+			}
+		},
+		{
+			"type": "reference",
+			"id": "minecraft:include/unifont"
+		}
+	]
+}
