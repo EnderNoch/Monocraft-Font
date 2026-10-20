@@ -4,7 +4,8 @@ Copyright (c) 2026 EnderNoch
 
 This license covers the pack configuration, scripts and images in this repository.
 The Monocraft font (pack/assets/minecraft/font/monocraft.ttf) is not covered by it:
-it is licensed under the SIL Open Font License 1.1, see pack/LICENSE-Monocraft.txt.
+it is a modified copy of Monocraft (30 glyphs moved half a pixel onto the pixel grid)
+and stays under the SIL Open Font License 1.1, see pack/LICENSE-Monocraft.txt.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
